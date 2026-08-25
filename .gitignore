@@ -1,0 +1,11 @@
+node_modules/
+.env
+.env.local
+.DS_Store
+.idea/
+*.swp
+*.log
+dist/
+build/
+.vscode/
+go1.21.0.linux-amd64.tar.gz
